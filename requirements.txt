@@ -1,0 +1,3 @@
+langchain
+langgraph
+langchain_community==0.3.13
